@@ -1,0 +1,4 @@
+# Meson generated directories
+build/
+subprojects/check
+subprojects/efl
