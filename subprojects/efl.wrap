@@ -1,4 +1,4 @@
 [wrap-git]
-url = https://github.com/expertisesolutions/efl.git
-revision = devs/expertise/native-windows
+url = https://git.enlightenment.org/core/efl.git
+revision = master
 depth = 1
